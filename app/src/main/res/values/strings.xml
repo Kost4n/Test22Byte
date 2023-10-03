@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test22Byte</string>
+    <string name="text_result">Congratulations! You finished the game! Your total score is _.</string>
+</resources>
